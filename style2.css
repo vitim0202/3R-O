@@ -10,5 +10,7 @@
 
 }
 body{
-    background-color:#BAE0F5 ;
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Courier New', Courier, monospace;
 }
