@@ -14,7 +14,7 @@ body{
     color: var(--branco);
     font-family: 'Courier New', Courier, monospace;
 }
-.conetudo-principal{
+.contudo-principal{
     display: flex;
     flex-direction: column;
     justify-content: center;
