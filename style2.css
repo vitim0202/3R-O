@@ -17,5 +17,5 @@ body{
 .conetudo-principal{
     display: flex;
     flex-direction: column;
-    
+    .+justify-content: center;
 }
