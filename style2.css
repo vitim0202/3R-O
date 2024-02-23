@@ -13,3 +13,9 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Courier New', Courier, monospace;
+}
+.conetudo-principal{
+    display: flex;
+    flex-direction: column;
+    .+justify-content: center;
+}
