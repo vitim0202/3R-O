@@ -29,5 +29,5 @@ body{
     font-size: 32px;
 }
 .titulo-principal span{
-    color: var(#ffaea1);
+    color: var(--verde-agua);
 }
