@@ -43,5 +43,8 @@ body{
     font-size: 18px;
     align-items: center;
     width: 100%;
-    border-bottom: #cce5ff;
+    border-bottom: 4px solid var(--verde-agua);
+    border-left: 2px var(--botao-inativo);
+    border-right: var(--botao-inativo);
+    bo
 }
