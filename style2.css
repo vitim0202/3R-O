@@ -9,6 +9,7 @@
 --cor-de-fundo: #c5c6c8;
 --botao-de-fundo: #000000; 
 --botao-inativo:#cce5ff; 
+--botao-ativo: #ff94a2; 
 
 }
 body{
@@ -44,7 +45,6 @@ body{
     align-items: center;
     width: 100%;
     border-bottom: 4px solid var(--verde-agua);
-    border-left: 2px var(--botao-inativo);
-    border-right: var(--botao-inativo);
-    bo
+    border-left: 2px var(--botao-ativo);
+    border-right: var(--botao-ativo);
 }
