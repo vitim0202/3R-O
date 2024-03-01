@@ -33,4 +33,6 @@ body{
 }
 .botao{
     font-family: 'Courier New', Courier, monospace;
+    background-color: var(--branco);
+    color: var(--verde-agua);
 }
