@@ -44,6 +44,6 @@ body{
     align-items: center;
     width: 100%;
     border-bottom: 4px solid var(--verde-agua);
-    border-left: 2px var(--botao-ativo);
-    border-right: var(--botao-ativo);
+    border-left: 2px var(--verde-agua);
+    border-right: var(--verde-agua);
 }
