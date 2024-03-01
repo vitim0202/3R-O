@@ -35,7 +35,7 @@ body{
 }
 
 .titulo-principal span{
-    color:var(--cinza)
+    color:var(--cinza);
 }
 
 .botao{
@@ -57,9 +57,9 @@ body{
     border-radius: 40px  40px 0 0 ;
 }
 @media screen and (min-width 768px){
-    .botoes(
+    .botoes{
         display: flex;
-     )
+    }
     
 }
     
