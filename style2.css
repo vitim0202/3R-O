@@ -47,3 +47,6 @@ body{
     border-left: 2px var(--verde-agua);
     border-right: var(--verde-agua);
 }
+.botao.botao:first-chi{
+    border-radius: 40px 40px 0;
+}
