@@ -35,7 +35,7 @@ body{
 }
 .botao{
     font-family: 'Courier New', Courier, monospace;
-    background-color: var(--botao-inativo);
+    background-color: var(--botao-ativo);
     color: var(--branco);
     display: flex;
     justify-content: center;
