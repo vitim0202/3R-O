@@ -7,7 +7,6 @@
 --azul-claro:#5C93E0; 
 --amarelo-icone-da-seleção:#FFFC2B;
 --cor-de-fundo: #c5c6c8;
---botao-de-fundo: #000000; 
 --botao-inativo:#cce5ff; 
 --botao-ativo: #ff94a2; 
 
@@ -37,7 +36,7 @@ body{
 .botao{
     font-family: 'Courier New', Courier, monospace;
     background-color: var(--branco);
-    color: var(--botao-de-fundo);
+    color: var(--botao-inativo);
     display: flex;
     justify-content: center;
     padding: 1em;
