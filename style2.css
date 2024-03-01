@@ -31,3 +31,6 @@ body{
 .titulo-principal span{
     color: var(--verde-agua);
 }
+.botao{
+    font-family: 'Courier New', Courier, monospace;
+}
