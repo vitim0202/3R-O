@@ -71,6 +71,6 @@ body{
 }    
 .ativo{
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--salmão);
+    border-bottom: 4px solid var(--azul-claro);
 }
 
