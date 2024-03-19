@@ -73,4 +73,9 @@ body{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--azul-claro);
 }
+.abas-textos{
+    backgroud-color: var(--verde-desbotado);
+    padding:40px; 
+    border-radius:0 0 40px 40px; 
+}
 
